@@ -47,43 +47,43 @@
 
 @media (min-width: 1200px) { 
     .media img {
-        width: 40vw !important;  /* Increased width */
-        max-height: 40vh !important; /* Increased height */
+        width: 35vw !important;  /* Reduced width */
+        max-height: 30vh !important; /* Reduced height */
     }
 }
 
 @media (max-width: 1199px) and (min-width: 992px) { 
     .media img {
-        width: 35vw !important;  
-        max-height: 35vh !important;
+        width: 28vw !important;  
+        max-height: 23vh !important;
     }
 }
 
 @media (max-width: 991px) and (min-width: 768px) {
     .media img {
-        width: 30vw !important;  
-        max-height: 30vh !important;
+        width: 25vw !important;  
+        max-height: 22vh !important;
     }
 }
 
 @media (max-width: 767px) and (min-width: 480px) { 
     .media img {
-        width: 40vw !important;  
-        max-height: 35vh !important;
+        width: 30vw !important;  
+        max-height: 28vh !important;
     }
 }
 
 @media (max-width: 479px) { 
     .media img {
-        width: 50vw !important;  
-        max-height: 40vh !important;
+        width: 35vw !important;  
+        max-height: 30vh !important;
     }
 }
 
 </style>
 
 <div class="media stream-item view-compact">
-  <div class="mr-3" style="padding-top: 1%;">
+  <div class="mr-3" style="padding-top: 0%;">
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
     {{ with $resource }}
       {{ $image := .Fill "800x400 Center" }}
