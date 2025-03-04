@@ -15,7 +15,7 @@ last_name: Kamra
 superuser: false
 
 # Role/position
-role: Alumni
+role: Meta
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

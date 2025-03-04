@@ -15,7 +15,7 @@ last_name: Purushotham
 superuser: false
 
 # Role/position
-role: Alumni
+role: University of Maryland Baltimore County
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

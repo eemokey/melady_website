@@ -15,7 +15,7 @@ last_name: Meng
 superuser: false
 
 # Role/position
-role: Alumni
+role: Pinterest
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
