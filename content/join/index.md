@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Join
 date: 2022-10-24
 
 type: landing
@@ -7,15 +7,19 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact Us
+      title: Join Us
       text: |-
-        Melady Lab is located in Ginsburg Hall 4th floor. For getting involved and joining us:
+        Join us and get involved in cutting-edge research!
 
-        Prospective PhD students: If you are interested in working with us, please include Prof. Liu’s name in your application.
+        **Prospective PhD students:** If you are interested in working with us, please include Prof. Liu’s name in your application.
 
-        Directed Research (DR) / Internship: If you are interested in directed research/internship opportunities, please fill out the application form. [Link](https://forms.gle/nwkw3ad82fn1JZnU8)
+        **Undergraduate/Masters’s Directed Research (DR):** If you are interested in directed research opportunities, please fill out the application form. [Link](https://forms.gle/nwkw3ad82fn1JZnU8)
         
-        Postdoc: If you are interested in postdoc positions, please fill out the application form. [Link](https://forms.gle/WjfN2Hgn5NJKYDtF9)
+        **Postdoc:** If you are interested in postdoc positions, please fill out the application form. [Link](https://forms.gle/WjfN2Hgn5NJKYDtF9)
+
+
+        Melady Lab is located in Ginsburg Hall 4th floor. 
+
       address:
         street: Ginsburg Hall
         city: Los Angeles
