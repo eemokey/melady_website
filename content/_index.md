@@ -18,7 +18,7 @@ sections:
         
         The USC Melady Lab is a leading research group in core machine learning and AI models as well as applications in health and sustainability. Recent research thrusts include **foundation models for time series, interpretable machine learning, physics-informed AI, and so on.** 
 
-
+        Join us [here](https://usc-melady.github.io/melady_website/join/)!
 
 
   
